@@ -15,14 +15,14 @@
   <a href="https://www.ieee-ras.org/publications/t-ro/">
     <img src="https://img.shields.io/badge/Journal-IEEE%20T--RO%202026-blue.svg"/>
   </a>
-  <a href="https://arxiv.org/pdf/2507.20901">
+  <a href="https://rpg.ifi.uzh.ch/docs/TRO26_Muglikar.pdf">
     <img src="https://img.shields.io/badge/Paper-PDF-b31b1b.svg"/>
   </a>
   <a href="https://youtu.be/9FneWDDwQ8E">
     <img src="https://img.shields.io/badge/Video-YouTube-red.svg"/>
   </a>
-  <a href="https://github.com/uzh-rpg/event-sharp-nerf-drones/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg"/>
+  <a href="https://github.com/uzh-rpg/EVSnow/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-GPL-blue.svg"/>
   </a>
 </p>
 <p align="center">
