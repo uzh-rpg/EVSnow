@@ -27,7 +27,7 @@
 </p>
 <p align="center">
   <a href="https://youtu.be/dVaH0VVXhQc">
-    <img src="assets/driving_snow.png" alt="Event-Based De-Snowing for Autonomous Drivings" width="800"/>
+    <img src="assets/driving_snow.jpg" alt="Event-Based De-Snowing for Autonomous Drivings" width="800"/>
   </a>
 </p>
 
